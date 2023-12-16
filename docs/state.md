@@ -1,7 +1,5 @@
 # State
 
-test
-
 While Linux is usable on all T2 models, some features are limited due to the lack of drivers or similar. This page should give a general overview of what is working and what is not.
 
 |Feature|Status|Upstream|Notes|Issues/links|
