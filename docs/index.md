@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the t2linux wiki!
+Welcome to the t2linux wiki! test
 
 This wiki contains knowledge about running Linux on Macs with the T2 chip.
 A list of those devices can be found [on Apple's website](https://support.apple.com/en-us/HT208862).
